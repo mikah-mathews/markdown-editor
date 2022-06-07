@@ -12,7 +12,7 @@
 
 ## Description
 
-_A practice application that allows users to write in markdown. Built following [this tutorial](https://dev.to/oyedeletemitope/build-a-markdown-editor-in-reactjs-4g0i) by Oyedeletemitope. 
+A practice application that allows users to write in markdown. Built following [this tutorial](https://dev.to/oyedeletemitope/build-a-markdown-editor-in-reactjs-4g0i) by Oyedeletemitope. 
 
 ## Setup/Installation Requirements
 
