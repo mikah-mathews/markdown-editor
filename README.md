@@ -17,8 +17,7 @@ A practice application that allows users to write in markdown. Built following [
 ## Setup/Installation Requirements
 
 * Clone this repository to your local machine
-* To install the project's dependencies, in the terminal type ```dotnet restore```
-* To run the application, type ```dotnet run``` in the terminal to run the program.
+* To run the application, type ```npm start``` in the terminal to run the program.
 
 
 ## Known Bugs
